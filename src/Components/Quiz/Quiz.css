@@ -11,6 +11,10 @@
   padding: 40px 50px;
 }
 
+.container h1 {
+  text-align: center;
+}
+
 .container hr {
   height: 2px; 
   border: none;
