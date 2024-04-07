@@ -10,15 +10,18 @@
   border-radius: 10px;
   padding: 40px 50px;
 }
+
 .container hr {
   height: 2px; 
   border: none;
   background: #707070;
 }
+
 .container h2 {
   font-size: 27px;
   font-weight: 500;
 }
+
 .container ul li {
   display: flex; 
   align-items: center;
@@ -30,6 +33,7 @@
   font-size: 20px;
   cursor: pointer;
 }
+
 .container button {
   margin: auto;
   width: 250px;
@@ -41,8 +45,18 @@
   border-radius: 8px;
   cursor: pointer;
 }
+
 .container .index { 
   margin: auto;
   font-size: 18px;
-  
+}
+
+.container .correct {
+  background: #dffff2;
+  border-color: #00d397;
+}
+
+.container .incorrect {
+  background: #FFEBEB;
+  border-color: #FF4A4A;
 }
